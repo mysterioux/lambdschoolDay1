@@ -1,0 +1,16 @@
+#Variables
+Variables are like container used in holding various items. They are perfect for holding values. Each variables can hold strings, boolean values, integers, arrays and it can hold a returned value from a function. 
+
+_An Example of variable declaration with its value_
+
+*var name = 'Chris';
+*var isActive = true;
+
+#Strings
+Strings are collection of values placed inside quotes. It could be single quotes * ' ' * or double quotes * " " *. An example of a string is "Hello World!"
+
+#Functions(arguments, return)
+
+#if Statements
+
+#Boolean values(true,false)
